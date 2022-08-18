@@ -14,7 +14,7 @@
 
    **1.1. Objetivo General** 
    
-- Investigar sobre "Circuitos en serie - paralelo" y "Teorema de circuitos y conversiones", mediante el libro establecido en hora de clase "Principios de circuitos electricos de Floyd" para lograr una mejor comprensión de la materia durante el periodo de mayo a septiembre del 2022.
+- Investigar sobre "Inductores" y "Transformadores", mediante el libro establecido en hora de clase "Principios de circuitos electricos de Floyd" para lograr una mejor comprensión de la materia durante el periodo de mayo a septiembre del 2022.
 
 ***
 
