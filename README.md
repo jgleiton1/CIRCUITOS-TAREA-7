@@ -592,7 +592,7 @@ Algunos de los devanados secundarios, pero no todos, están en cortocircuito o e
 
 **4. Vídeo**
 
-
+https://www.youtube.com/watch?v=_HREUQ9SfpE
 
 ***
 
